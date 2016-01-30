@@ -1,10 +1,10 @@
 Forces between charges:
 
-local power = -9 --the exponent of the charges (in coulombs)
-local charge1 = 4.84
-local charge2 = 6
-local r = 0.295 --in meters
-local direction = 180 --in degrees
+local power = -6 --the exponent of the charges (in coulombs)
+local charge1 = 0
+local charge2 = 0
+local r = 0 --in meters
+local direction = 0 --in degrees
 local pos = {x=0,y=0} --add to table to handle multiple calculations/vectors
 
 local k = 8.987e9
