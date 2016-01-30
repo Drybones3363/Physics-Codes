@@ -1,8 +1,8 @@
 local power = -6 --the exponent of the charges (in coulombs)
-local charge = 4
-local r = 0.65 --in meters
+local charge = 0
+local r = 0 --in meters
 local direction = 0 --in degrees
-local pos = {x=-128948.62041817,y=-74448.520710059} --add to table to handle multiple calculations/vectors
+local pos = {x=0,y=0} --add to table to handle multiple calculations/vectors
 
 local k = 8.987e9
 local f = k*charge*(10^power)/(r^2)
