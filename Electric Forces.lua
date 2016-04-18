@@ -1,4 +1,4 @@
-Forces between charges:
+--Forces between charges:
 
 local power = -6 --the exponent of the charges (in coulombs)
 local charge1 = 0
